@@ -1,7 +1,7 @@
 This is a program that uses Facer and DeepFace for Facial Attribute Classification.
 
-Feature_embeddings_lfw - contains JSON files of the feature embeddings of each image in the LFW Dataset. For faster computing. Used to generate statistics.
-Feature_embeddings_sm2 - contains JSON files of the feature embeddings of each image in the selfmadefolder2. For faster computing. Used to test performance.
+1. Feature_embeddings_lfw - contains JSON files of the feature embeddings of each image in the LFW Dataset. For faster computing. Used to generate statistics.
+2. Feature_embeddings_sm2 - contains JSON files of the feature embeddings of each image in the selfmadefolder2. For faster computing. Used to test performance.
 lfw-deepfunneled - the lfw image set.
 selfmadefolder2 - contains images gathered from the internet. Make sure the images are in ascending order from 1 to 48 and not 1,10,11,12...
 failure_to_detect_lfw - json file of the number of times Facer and DeepFace failed to identify a face.
