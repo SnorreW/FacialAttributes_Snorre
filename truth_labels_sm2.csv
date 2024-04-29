@@ -1,0 +1,49 @@
+﻿name;gender;race;glasses;happy;age
+1;f;asian;FALSE;TRUE;young
+2;m;asian;FALSE;TRUE;young
+3;m;asian;TRUE;TRUE;old
+4;f;asian;TRUE;TRUE;old
+5;m;asian;TRUE;FALSE;young
+6;f;asian;FALSE;FALSE;young
+7;f;asian;TRUE;FALSE;old
+8;m;asian;FALSE;FALSE;old
+9;f;indian;FALSE;FALSE;young
+10;m;indian;FALSE;FALSE;old
+11;m;indian;TRUE;FALSE;young
+12;m;indian;TRUE;TRUE;young
+13;f;indian;FALSE;FALSE;young
+14;f;indian;FALSE;FALSE;old
+15;f;indian;FALSE;FALSE;old
+16;m;indian;FALSE;FALSE;young
+17;m;black;TRUE;FALSE;young
+18;m;black;TRUE;FALSE;young
+19;m;black;TRUE;FALSE;old
+20;m;black;FALSE;TRUE;young
+21;f;black;TRUE;FALSE;old
+22;f;black;TRUE;FALSE;old
+23;f;black;FALSE;TRUE;young
+24;f;black;TRUE;TRUE;young
+25;f;white;TRUE;FALSE;old
+26;m;white;TRUE;FALSE;old
+27;m;white;TRUE;FALSE;old
+28;m;white;TRUE;TRUE;old
+29;m;white;FALSE;TRUE;old
+30;f;white;FALSE;TRUE;young
+31;f;white;TRUE;FALSE;young
+32;f;white;FALSE;TRUE;old
+33;m;middle eastern;FALSE;TRUE;young
+34;m;middle eastern;FALSE;TRUE;young
+35;m;middle eastern;FALSE;TRUE;young
+36;m;middle eastern;TRUE;TRUE;old
+37;f;middle eastern;TRUE;FALSE;young
+38;f;middle eastern;TRUE;TRUE;young
+39;f;middle eastern;FALSE;FALSE;young
+40;f;middle eastern;FALSE;FALSE;young
+41;f;latino hispanic;FALSE;TRUE;young
+42;f;latino hispanic;FALSE;TRUE;young
+43;m;latino hispanic;TRUE;TRUE;young
+44;m;latino hispanic;TRUE;FALSE;young
+45;m;latino hispanic;TRUE;FALSE;young
+46;f;latino hispanic;FALSE;FALSE;old
+47;m;latino hispanic;TRUE;FALSE;old
+48;f;latino hispanic;FALSE;FALSE;old
